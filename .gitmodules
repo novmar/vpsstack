@@ -1,0 +1,3 @@
+[submodule "confctl"]
+	path = confctl
+	url = https://github.com/vpsfreecz/confctl.git
