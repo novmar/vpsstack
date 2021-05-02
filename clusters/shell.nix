@@ -1,1 +1,0 @@
-../confctl/shell.nix
